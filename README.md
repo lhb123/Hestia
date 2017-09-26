@@ -55,6 +55,11 @@ https://github.com/google/grafika
 
 14. 深入学习一些音视频领域的开源项目，如 webrtc，ffmpeg，ijkplayer，librtmp 等等
 
+```
+//ffmpeg软编流程图
+![ffmpeg软编流程图](http://img.blog.csdn.net/20140929220326509?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGVpeGlhb2h1YTEwMjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+```
+
 15. 将 ffmpeg 库移植到 Android 平台，结合上面积累的经验，编写一款简易的音视频播放器
 
 16. 将 x264 库移植到 Android 平台，结合上面积累的经验，完成视频数据 H264 软编功能
